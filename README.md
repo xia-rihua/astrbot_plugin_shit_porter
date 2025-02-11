@@ -1,6 +1,6 @@
 # astrbot_plugin_shit_porter
 
-AstrBot 搬插件
+AstrBot 搬💩插件
 
 ## 指令
 /转发：发送后转发聊天记录到指定群聊或私聊
