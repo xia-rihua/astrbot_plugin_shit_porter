@@ -1,5 +1,6 @@
 {
-    "description": "自动转发配置",
+  "port_id":{
+  "description": "自动转发配置",
     "type": "object",
     "hint": "自动转发配置",
     "obvious_hint": true,
@@ -25,4 +26,4 @@
       }
     }
   }
-  
+}
