@@ -1,8 +1,12 @@
-# helloworld
+# astrbot_plugin_shit_porter
 
-AstrBot 插件模板
+AstrBot 搬插件
 
-A template plugin for AstrBot plugin feature
+## 指令
+/转发：发送后转发聊天记录到指定群聊或私聊
+
+## 配置
+输入指定群聊或私聊
 
 # 支持
 
