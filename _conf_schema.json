@@ -1,0 +1,28 @@
+{
+    "description": "自动转发配置",
+    "type": "object",
+    "hint": "自动转发配置",
+    "obvious_hint": true,
+    "items": {
+      "id": {
+        "description": "转发队列ID",
+        "type": "string",
+        "hint": "请输入转发队列ID",
+        "default": ""
+      },
+      "forward_type": {
+        "description": "转发类型",
+        "type": "string",
+        "hint": "转发类型（群聊或私聊）",
+        "default": "",
+        "options": ["群聊", "私聊"]
+      },
+      "forward_id": {
+        "description": "转发目的地ID",
+        "type": "string",
+        "hint": "请输入转发目的地ID",
+        "default": ""
+      }
+    }
+  }
+  
